@@ -18,4 +18,7 @@
 
 ## My projects
 
-* [Twitter Clone](https://github.com/viniciusmbezerra/Twitter_Clone)
+### Clone do Twitter | PHP: https://vmb-twitter-clone.herokuapp.com/
+### Tradutor consumindo api do google | PHP: https://vmb-tradutor.herokuapp.com/
+### Chat | PHP: https://vmb-chat.herokuapp.com/
+### Bola Cubo 3d | CSS: https://viniciusmbezerra.github.io/CSS/bola_cubo3d/
